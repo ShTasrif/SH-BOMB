@@ -91,8 +91,8 @@ print (yellow+'************************************************************')
 print(lightblue+'\t\t1 SMS Can Send Upto 6 SMS')
 print(' ')
 
-number=str(input(red+"Enter Your Number : "))
-amount=int(input(cyan+"Enter The Amount : "))
+number=str(input(red+"[➙] Enter Your Number : "))
+amount=int(input(cyan+"[➙] Enter The Amount : "))
 
 url1 = "https://ss.binge.buzz/otp/send/login"
 
@@ -140,3 +140,5 @@ for i in range (amount):
 	resp5 = requests.post(url5, headers=headers5, data=data5)
 	resp = requests.post(url6, headers=headers6, data=data6)	
 	print(str(i+1)+green+'.	➙SMS Sent ✅')
+	
+print(cyan+'\t\tThanks For Useing SH-BOMB')
