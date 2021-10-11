@@ -30,8 +30,6 @@ on_green="\033[42m"       # Green
 
 blue="\033[0;34m"         # Blue
 
-blue= '\33[94m'
-
 lightblue = '\033[94m'
 
 red = '\033[91m'
@@ -48,7 +46,7 @@ end = '\033[0m'
 
 purple="\033[0;35m"
 
-print("\t\tChecking For Updates...")
+print(green+"\t\tChecking For Updates...")
 
 version = open(".version.txt", "r")
 
@@ -58,13 +56,13 @@ time.sleep(0.6)
 
 if(version.read() == mainversion.text):
 
-	print("You are using the latest version of SH-BOMB")
+	print(cyan+"You are using the latest version of SH-BOMB")
 
 else:
 
-	print("\t\tTool Update Found")
+	print(red+"\t\tTool Update Found")
 
-	print("\t\tUpdating Tool...")
+	print(blue+"\t\tUpdating Tool...")
 
 	os.system("cd .. && rm -rf SH-BOMB && git clone https://github.com/ShTasrif/SH-BOMB > /dev/null 2>&1 && cd SH-BOMB && python sh.py")
 
