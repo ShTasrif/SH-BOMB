@@ -12,7 +12,7 @@ os.system("pip install requests")
 
 os.system("clear")
 
-red="\033[0;31m"          # Red
+red="\033[0;31m" q         # Red
 
 yellow="\033[0;33m"       # Yellow
 
