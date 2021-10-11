@@ -60,6 +60,8 @@ if(version.read() == mainversion.text):
 
 else:
 
+	print(' ')
+	print(' ')
 	print(red+"\t\tTool Update Found")
 
 	print(blue+"\t\tUpdating Tool...")
