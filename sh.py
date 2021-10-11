@@ -46,6 +46,32 @@ end = '\033[0m'
 
 purple="\033[0;35m"
 
+
+
+print(green+"""
+   _____ _    _            ____   ____  __  __ ____  
+  / ____| |  | |          |  _ \ / __ \|  \/  |  _ \ 
+ | (___ | |__| |  ______  | |_) | |  | | \  / | |_) |
+  \___ \|  __  | |TASRIF| |  _ <| |  | | |\/| |  _ < 
+  ____) | |  | |          | |_) | |__| | |  | | |_) |
+ |_____/|_|  |_|          |____/ \____/|_|  |_|____/ """)
+
+print(' ')
+print (yellow+"\t\tYoutube.com/tasrifmultimedia")
+
+print ("\t\tFb.com/tasrif.hossen.shuvo")
+
+print ("\t\tGithub.com/ShTasrif")
+
+print (cyan+"\t\t       	Version : 1.0 ")
+
+print (yellow+'************************************************************')
+print (bred+'    Note: I wont be responsible fo any illigal activites.')
+print (yellow+'************************************************************')
+
+
+
+
 print(green+"\t\tChecking For Updates...")
 
 version = open(".version.txt", "r")
