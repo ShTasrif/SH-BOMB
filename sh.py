@@ -141,5 +141,5 @@ for i in range (amount):
 	resp = requests.post(url6, headers=headers6, data=data6)	
 	print(str(i+1)+green+'.	➙SMS Sent ✅')
 	
-print(' ')
-print(cyan+'\t\tThanks For Useing SH-BOMB')
+print('					')
+print(cyan+'\t\tThanks For Using SH-BOMB')
