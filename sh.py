@@ -90,6 +90,7 @@ print (cyan+"\t\t       	Version : 1.0 ")
 print (yellow+'***********************************************************')
 print (bred+'    Note: I wont be responsible fo any illigal activites.')
 print (yellow+'***********************************************************')
+print(lightblue'\t\t1 SMS Can Send Upto 6 SMS')
 print(' ')
 
 number=str(input(red+"Enter Your Number : "))
