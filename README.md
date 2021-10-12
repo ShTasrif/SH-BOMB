@@ -6,7 +6,12 @@
 5. cd SH-BOMB
 6. python sh.py
 
+
+[✓] Single Command Run
+[*] cd $HOME && cd SH-BOMB && python sh.py
+
 [✓] Now Enjoy SH-BOMB
 
 For any problems contact FB: 
 https://www.facebook.com/ShTasrif.BD
+https://www.facebook.com/tasrif.hossen.shuvo
