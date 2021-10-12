@@ -8,6 +8,7 @@
 
 
 [✓] Single Command Run
+
 [*] cd $HOME && cd SH-BOMB && python sh.py
 
 [✓] Now Enjoy SH-BOMB
