@@ -56,7 +56,7 @@ logo=(green+"""
  
 
 line=(yellow+"======================================================")
-version=(cyan+"\t\t       Version : 1.0.1")
+tversion=(cyan+"\t\t       Version : 1.0.1")
 
 line2=("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
  
@@ -70,7 +70,7 @@ print(" ")
 
 print(dtls)
 
-print(version)
+print(tversion)
 
 print(line)
 
