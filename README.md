@@ -1,5 +1,5 @@
 1. apt update -y
-2. apt upgrade
+2. apt upgrade -y
 3. pkg install git
 4. pkg install python
 5. git clone https://github.com/ShTasrif/SH-BOMB.git
