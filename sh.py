@@ -46,41 +46,33 @@ end = '\033[0m'
 
 purple="\033[0;35m"
 
-logo=(green+"""
+
+
+print(green+"""
    _____ _    _            ____   ____  __  __ ____  
   / ____| |  | |          |  _ \ / __ \|  \/  |  _ \ 
  | (___ | |__| |  ______  | |_) | |  | | \  / | |_) |
   \___ \|  __  | |TASRIF| |  _ <| |  | | |\/| |  _ < 
   ____) | |  | |          | |_) | |__| | |  | | |_) |
  |_____/|_|  |_|          |____/ \____/|_|  |_|____/ """)
- 
 
-line=(yellow+"======================================================")
-tversion=(cyan+"\t\t       Version : 1.0.1")
+print(' ')
+print (yellow+"\t\tYoutube.com/tasrifmultimedia")
 
-line2=("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
- 
-dtls=(yellow+"\t\t𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲: 𝐌𝐃 𝐓𝐀𝐒𝐑𝐈𝐅 𝐇𝐎𝐒𝐒𝐄𝐍 \n \t\tYoutube.com/tasrifmultimedia \n \t\tFb.com/tasrif.hossen.shuvo\n \t\tGithub.com/ShTasrif")
+print ("\t\tFb.com/tasrif.hossen.shuvo")
 
-note=(red+"Note: I wont be responsible fo any illigal activites.")
+print ("\t\tGithub.com/ShTasrif")
 
-print(logo)
+print (cyan+"\t\t       	Version : 1.0 ")
 
-print(" ")
-
-print(dtls)
-
-print(tversion)
-
-print(line)
-
-print(note)
-
-print(line)
+print (yellow+'************************************************************')
+print (bred+'    Note: I wont be responsible fo any illigal activites.')
+print (yellow+'************************************************************')
 
 
 
-print(green+"\t\t[•]Checking For Updates...")
+
+print(green+"\t\tChecking For Updates...")
 
 version = open(".version.txt", "r")
 
@@ -104,20 +96,26 @@ else:
 
 os.system("clear")	
 
-print(logo)
+print(green+"""
+   _____ _    _            ____   ____  __  __ ____  
+  / ____| |  | |          |  _ \ / __ \|  \/  |  _ \ 
+ | (___ | |__| |  ______  | |_) | |  | | \  / | |_) |
+  \___ \|  __  | |TASRIF| |  _ <| |  | | |\/| |  _ < 
+  ____) | |  | |          | |_) | |__| | |  | | |_) |
+ |_____/|_|  |_|          |____/ \____/|_|  |_|____/ """)
 
-print(" ")
+print(' ')
+print (yellow+"\t\tYoutube.com/tasrifmultimedia")
 
-print(dtls)
+print ("\t\tFb.com/tasrif.hossen.shuvo")
 
-print(version)
+print ("\t\tGithub.com/ShTasrif")
 
-print(line)
+print (cyan+"\t\t       	Version : 1.0 ")
 
-print(note)
-
-print(line)
-
+print (yellow+'************************************************************')
+print (bred+'    Note: I wont be responsible fo any illigal activites.')
+print (yellow+'************************************************************')
 print(lightblue+'\t\t1 SMS Can Send Upto 6 SMS')
 print(' ')
 
