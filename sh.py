@@ -56,7 +56,7 @@ logo=(green+"""
  
 
 line=(yellow+"======================================================")
-tversion=(cyan+"\t\t     Version : 1.0.1 ")
+tversion=(cyan+"\t\t     Version : 1.0.2 ")
 
 line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~")
  
@@ -175,3 +175,5 @@ for i in range (amount):
 	
 print('					')
 print(cyan+'\t\tThanks For Using SH-BOMB')
+
+os.system("xdg-open https://youtube.com/c/TASRIFMULTIMEDIA")
