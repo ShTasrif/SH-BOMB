@@ -6,7 +6,8 @@
 <a href="https://www.github.com/ShTasrif/cybersh"><img src="https://img.shields.io/github/watchers/ShTasrif/cybersh?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
 <a href="https://www.github.com/ShTasrif/cybersh/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ShTasrif/cybersh?logo=license&style=for-the-badge" alt="total watchers" ></a>
 </div>
-# Disclaimer:
+
+## Disclaimer :
 This tool is for educational purposes only ! Don't use this to take revenge I will not be responsible for any misuse.
 
 ## Tested On:
