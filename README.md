@@ -34,3 +34,5 @@ git clone https://github.com/ShTasrif/SH-BOMB
 cd SH-BOMB
 python main.py
 ```
+# Screenshot 
+![IMG_20221119_222918](https://user-images.githubusercontent.com/85736436/202861663-56235a96-993b-448b-b5d1-ca60b2e91108.jpg)
