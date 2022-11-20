@@ -35,5 +35,6 @@ git clone https://github.com/ShTasrif/SH-BOMB
 cd SH-BOMB
 python main.py
 ```
+<a href="https://youtu.be/Cza1K_zEu1A"><img src="https://img.shields.io/badge/TUTORIAL:-WATCH-dark?style=for-the-badge" alt="version" ></a>
 # Screenshot 
 ![IMG_20221119_222918](https://user-images.githubusercontent.com/85736436/202861663-56235a96-993b-448b-b5d1-ca60b2e91108.jpg)
